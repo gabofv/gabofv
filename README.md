@@ -1,7 +1,7 @@
 ## Hi there 👋
 If you are here, it is likely because you got my resume 😄.
 
-I am Gabriel Vasquez, a Computer Engineering Co-op 4th year student. CompTIA Security+ certified, I am deeply interested in low-level coding and securing applications, networks, and hardware. I consider teamwork, discipline, and problem-solving my greatest assets.
+I am Gabriel Vasquez, a Computer Engineering Co-op 4th year student at the University of Alberta. CompTIA Security+ certified, I am deeply interested in low-level coding and securing applications, networks, and hardware. I consider teamwork, discipline, and problem-solving my greatest assets.
 
 I always ensure my projects are: **scalable**, **secure**, **clean**, **efficient**, and **functional**. 
 
