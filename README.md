@@ -9,12 +9,6 @@ I always ensure my projects are: **SCALABLE**, **SECURE**, **CLEAN**, **EFFICIEN
 - Developing virtual reality applications in Unity game engine and C# for engineering-related applications. 
 - Creating Python and C++ command-line tools for automating offline network traffic analysis.
 
-## I'm currently using...
-- Unity
-- C++ / C# / Python
-- Wireshark
-- Linux / Windows
-
 <!--
 ## Some GitHub stats...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabofv&layout=compact)
