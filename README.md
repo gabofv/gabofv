@@ -21,7 +21,7 @@ I always ensure my projects are: **scalable**, **secure**, **clean**, **efficien
 </a>
 
 ---
-Fun fact: I train Brazilian Jiu Jitsu :martial_arts_uniform: and play :violin:.
+***Fun fact:*** I train Brazilian Jiu Jitsu :martial_arts_uniform: and play :violin:.
 
 <!--
 **gabofv/gabofv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
