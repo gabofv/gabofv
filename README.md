@@ -15,8 +15,10 @@ I always ensure my projects are: **SCALABLE**, **SECURE**, **CLEAN**, **EFFICIEN
 - Wireshark
 - Linux / Windows
 
+<!--
 ## Some GitHub stats...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabofv&layout=compact)
+-->
 
 ## How to reach me...
 </a>
