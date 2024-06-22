@@ -7,7 +7,7 @@ I always ensure my projects are: **scalable**, **secure**, **clean**, **efficien
 
 ## I'm currently working on...
 - \[Full-Time\] Developing virtual reality applications in Unity game engine and C# for manufacturing-related applications. 
-- \[Part-Time\] Creating Python and C++ command-line tools for automating offline network traffic analysis.
+- \[Part-Time\] Creating Python and C++ command-line tools for automating offline 802.11 network traffic analysis.
 
 <!--
 ## Some GitHub stats...
