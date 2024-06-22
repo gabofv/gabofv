@@ -16,6 +16,7 @@ I always ensure my projects are: **scalable**, **secure**, **clean**, **efficien
 
 ## I am fluent in... (not up to date)
 
+<p>
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
 <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
@@ -30,7 +31,7 @@ I always ensure my projects are: **scalable**, **secure**, **clean**, **efficien
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
 <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
 <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
-
+</p>
 
 ## How to reach me...
 
