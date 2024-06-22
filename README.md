@@ -3,7 +3,7 @@ If you are here, it is likely because you got my resume 😄.
 
 I am Gabriel Vasquez, a Computer Engineering Co-op 4th year student. CompTIA Security+ certified, I am deeply interested in low-level coding and securing applications, networks, and hardware. I consider teamwork, discipline, and problem-solving my greatest assets.
 
-I always ensure my projects are:   **SCALABLE**, **SECURE**, **CLEAN**, **EFFICIENT**, and **FUNCTIONAL**. 
+I always ensure my projects are: **SCALABLE**, **SECURE**, **CLEAN**, **EFFICIENT**, and **FUNCTIONAL**. 
 
 ## I'm currently working on...
 - Developing virtual reality applications in Unity game engine and C# for engineering-related applications. 
@@ -14,6 +14,9 @@ I always ensure my projects are:   **SCALABLE**, **SECURE**, **CLEAN**, **EFFICI
 - C++ / C# / Python
 - Wireshark
 - Linux / Windows
+
+## Some GitHub stats...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabofv&layout=compact)
 
 ## How to reach me...
 </a>
