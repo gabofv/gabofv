@@ -6,7 +6,9 @@ I am Gabriel Vasquez, a Computer Engineering Co-op 4th year student at the Unive
 I always ensure my projects are: **scalable**, **secure**, **clean**, **efficient**, and **functional**. 
 
 ## I'm currently working on...
-- 
+- FPGA programming in Vivado using VHDL hardware description language.
+- UNIX and Linux low-level projects to gain deep knowledge of operating systems.
+- Cybersecurity stuff.
 
 <!--
 ## Some GitHub stats...
