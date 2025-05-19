@@ -4,8 +4,7 @@ If you are here, it is likely because you got my resume 😄.
 I am Gabriel Vasquez, a Computer Engineering Co-op 4th year student at the University of Alberta. CompTIA Security+ certified, I am deeply interested in low-level coding and the design and security of software applications, IT/OT networks, and hardware. I consider teamwork, discipline, and problem-solving my greatest assets.
 
 ## I'm currently working on...
-- Digital Logic Design (for FPGA or Digital IC Design) in Xilinx Vivado (VHDL)
-- Embedded Systems (Bare-metal and Real-Time)
+- Embedded Systems (drivers, applications, and end-to-end design)
 - Cybersecurity stuff
 
 ## How to reach me...
